@@ -1,9 +1,8 @@
-[![CI](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mlops-template/actions/workflows/cicd.yml)
-[![Codespaces Prebuilds](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds/badge.svg)](https://github.com/nogibjj/mlops-template/actions/workflows/codespaces/create_codespaces_prebuilds)
-
 ## Lab 1-Introduction to Continuous Integration
 
 ### Tasks
+
+0. Source the virtual environment `source /home/coder/venv/bin/activate`
 
 1. Run the following steps of the `Makefile`:
 
